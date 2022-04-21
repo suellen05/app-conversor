@@ -1,6 +1,9 @@
 .formulario{
 padding-left: 30px;
 padding-top: 50px;
+
+
+
 }
 
 .rotulo{
@@ -8,6 +11,9 @@ padding-top: 50px;
     font-weight: 700;
     display: block;
     margin-bottom: 10px;
+  
+    
+
 }
 
 .campo-numero{
@@ -20,6 +26,7 @@ padding-top: 50px;
     font-weight: 500;
     height: 25px;
     background: transparent;
+    padding-bottom: 5px;
 
 }
 
@@ -30,7 +37,7 @@ input:focus{
 .botao{
     border:0;
     pad: 10px;
-    background-color: black;
+    background-color: rgb(172, 38, 38);
     color: white;
     font-size: 20px;
     font-weight: 500;
